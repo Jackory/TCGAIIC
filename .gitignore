@@ -1,0 +1,13 @@
+**/*.bin
+**/*.pth
+**/*.pt
+**/*.log
+**/*.json
+**/*.tsv
+__pycache__/
+runs/
+code/
+.idea/
+finetune/**/
+finetune_logs/**/
+testExample/
